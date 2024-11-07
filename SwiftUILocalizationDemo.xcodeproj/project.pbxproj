@@ -187,7 +187,7 @@
 				};
 			};
 			buildConfigurationList = 4B8A05472CCA48000094B164 /* Build configuration list for PBXProject "SwiftUILocalizationDemo" */;
-			developmentRegion = ar;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,

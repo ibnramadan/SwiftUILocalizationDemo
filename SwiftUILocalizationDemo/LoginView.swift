@@ -15,7 +15,7 @@ struct LoginView: View {
     
     var body: some View {
         NavigationStack {
-            VStack {
+            List {
                 // Greeting Text
                 Text("Hello World!".localized())
                     .font(.title)
